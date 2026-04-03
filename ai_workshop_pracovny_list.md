@@ -329,5 +329,3 @@ Najviac ma zaujala myšlienka *Context Engineering* – teda že kvalita výstup
 - Využiť **Feedback Loops** cez unit testy – nechať AI, aby si sama overila správnosť svojich zmien
 
 ---
-
-*AI Workshop | SPSIT | Tom. Muc.*
