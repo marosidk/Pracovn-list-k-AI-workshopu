@@ -1,14 +1,6 @@
-# AI Workshop - Pracovný list (Vypracovaný)
+# AI Workshop - Pracovný list
 
 > Vypracované odpovede sú označené tučným písmom alebo doplnené na miesto `___`.
-
-### Primárne zdroje
-
-| Zdroj | Odkaz |
-| --- | --- |
-| PDF dokument | **AI\_Workshop.pdf** |
-| YouTube playlist | [Claude Code Workshop](https://youtube.com/playlist?list=PLJW-oHbyRDeL62yOcaqjex7cKnzcEYQXi&si=JUX_Bc2piFMk1NwJ) |
-| GitHub dokumentácia | [github.com/Kames003/Claude-](https://github.com/Kames003/Claude-) |
 
 ---
 
