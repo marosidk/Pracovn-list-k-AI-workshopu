@@ -1,13 +1,5 @@
 # AI Workshop - Pracovný list
 
-### Primárne zdroje
-
-| Zdroj | Odkaz |
-| --- | --- |
-| PDF dokument | **AI\_Workshop.pdf** |
-| YouTube playlist | [Claude Code Workshop](https://youtube.com/playlist?list=PLJW-oHbyRDeL62yOcaqjex7cKnzcEYQXi&si=JUX_Bc2piFMk1NwJ) |
-| GitHub dokumentácia | [github.com/Kames003/Claude-](https://github.com/Kames003/Claude-) |
-
 ---
 
 ## Úvod: Čo je AI Asistent?
